@@ -9,4 +9,4 @@
 * Team Members: 
     * Ken Trinh
     * Steven Tong
-    * team member 3
+    * Mingxi Liu
