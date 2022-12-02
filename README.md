@@ -8,5 +8,5 @@
 * Instructor: Korin Reed
 * Team Members: 
     * Ken Trinh
-    * team member 2
+    * Steven Tong
     * team member 3
